@@ -1,4 +1,5 @@
 # CodableXPC
+[![BuildStatus](https://travis-ci.com/daniel-grumberg/CodableXPC.svg?branch=master)](https://travis-ci.com/daniel-grumberg/CodableXPC)
 
 This provides an Encoder and Decoder protocol implementation that should allow
 users to target libxpc. This is only available on macOS as libxpc is not
