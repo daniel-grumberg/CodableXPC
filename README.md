@@ -32,12 +32,11 @@ transactions using the existing abstractions provided by the SDK. Specifically,
 this API does not support reply dictionaries.
 
 Again, this library is only meant to be used as a way to reduce boilerplate
-around writing marshalling code for Swift type and cannot be used without the
+around writing marshalling code for Swift types and cannot be used without the
 usual libxpc APIs provided by the macOS SDK.
 
 ## Dependencies and Distribution
 
-This package is distributed solely using SwiftPM, I will ignore any requests to
-distribute using CocoaPods or Carthage. As far as I know this has no
+This package is distributed solely using SwiftPM. As far as I know this has no
 dependencies apart from the standard macOS SDK, but if you find something let me
 know.
